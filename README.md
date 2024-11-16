@@ -1,4 +1,4 @@
-# 2c.SIMULATING ARP /RARP PROTOCOLS
+![SERVER1](https://github.com/user-attachments/assets/43e1f93c-e735-4ae8-989b-b2ee8c3c158f)# 2c.SIMULATING ARP /RARP PROTOCOLS
 ## NAME : VEERARAGAVAN V
 ## REGISTER NUMBER : 212223230237
 ## AIM
@@ -79,9 +79,12 @@ while True:
 ```
 ## OUPUT -RARP
 ### CLIENT OUTPUT
-![](./CLIENT2.png)
+![CLIENT1](https://github.com/user-attachments/assets/e71d5110-5338-4070-957e-7f5e1239e705)
+
 ### SERVER OUTPUT
-![](./SERVER2.png)
+![SERVER1](https://github.com/user-attachments/assets/bf5db815-0498-4a3e-85ab-2b96015e5a93)
+
+
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
